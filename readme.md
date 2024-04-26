@@ -6,7 +6,8 @@
 Ambience: 2/5
 
 Price: 20K
-Advance: 
+
+Advance: -
 
 ## Athithi
 - [x] Security for PC
@@ -16,7 +17,8 @@ Advance:
 Ambience: 3/5
 
 Price: 20K
-Advance: 
+
+Advance: 6K
 
 ## Cozy Inn
 - [x] Security for PC
@@ -26,4 +28,5 @@ Advance:
 Ambience: 4/5
 
 Price: 18K
-Advance: 
+
+Advance: 10K
