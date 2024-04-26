@@ -1,7 +1,6 @@
 ## Zolo Heaves
 - [x] Security for PC (kind of)
 - [ ] Meals
-- [ ] Gym
 - [x] Laundry Service
 - [x] Washing Machine
 
@@ -11,7 +10,6 @@ Advance:
 ## Athithi
 - [x] Security for PC
 - [x] Meals
-- [ ] Gym
 - [x] Laundry Service
 - [x] Washing Machine
 
@@ -21,7 +19,6 @@ Advance:
 ## Cozy Inn
 - [x] Security for PC
 - [x] Meals
-- [ ] Gym
 - [ ] Laundry Service
 - [ ] Washing Machine
 
