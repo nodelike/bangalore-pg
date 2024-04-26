@@ -19,7 +19,7 @@ Price: 20K
 Advance: 
 
 ## Cozy Inn
-- [x] Security for PC (kind of)
+- [x] Security for PC
 - [x] Meals
 - [ ] Gym
 - [ ] Laundry Service
