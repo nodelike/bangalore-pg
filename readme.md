@@ -3,6 +3,8 @@
 - [ ] Meals
 - [x] Laundry
 
+Ambience: 2/5
+
 Price: 20K
 Advance: 
 
@@ -11,6 +13,8 @@ Advance:
 - [x] Meals
 - [x] Laundry
 
+Ambience: 3/5
+
 Price: 20K
 Advance: 
 
@@ -18,6 +22,8 @@ Advance:
 - [x] Security for PC
 - [x] Meals
 - [ ] Laundry
+
+Ambience: 4/5
 
 Price: 18K
 Advance: 
